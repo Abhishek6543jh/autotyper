@@ -58,6 +58,8 @@ This is a simple auto-typer application built using `pynput` and `streamlit`. It
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
+[MIT LICENSE](LICENSE)
+
 ## Contribution
 
 Feel free to fork this repository and contribute via pull requests. Any contributions, issues, and feature requests are welcome.
