@@ -1,4 +1,4 @@
-Auto Typer
+# Auto Typer
 This is a simple auto-typer application built using pynput and streamlit. It allows users to automatically type a given text at a controlled speed. The application can be controlled through a web interface.
 
 Features
